@@ -1,0 +1,33 @@
+Iniciante 🟢
+Calculadora Simples – Permite ao usuário realizar operações matemáticas básicas.
+Conversor de Moedas – Converte valores entre diferentes moedas usando taxas fixas.
+Gerador de Senhas – Cria senhas aleatórias e seguras com opções de personalização.
+Jogo da Forca – O usuário tenta adivinhar uma palavra antes de esgotar as tentativas.
+Cronômetro/Timer – Um cronômetro simples que conta o tempo e pode ser pausado.
+Simulador de Dados – Simula o lançamento de um dado (D6, D20, etc.).
+To-Do List CLI – Gerencia tarefas no terminal com opções de adicionar, listar e remover.
+Contador de Palavras – Conta quantas palavras existem em um texto digitado.
+Conversor de Temperatura – Converte entre Celsius, Fahrenheit e Kelvin.
+Validador de CPF – Implementa a lógica de validação de CPF brasileiro.
+Intermediário 🟡
+Web Scraper de Notícias – Extrai títulos e links de sites de notícias usando requests e BeautifulSoup.
+Agenda de Contatos (SQLite) – CRUD de contatos armazenados em um banco SQLite.
+Chatbot Simples – Um bot que responde a mensagens pré-definidas.
+Jogo Pedra, Papel e Tesoura – Com interface no terminal ou usando tkinter.
+Simulador de Caixa Eletrônico – Sistema de saque, depósito e saldo em conta fictícia.
+Analisador de Sentimento – Usa TextBlob para analisar se um texto tem tom positivo ou negativo.
+Sistema de Notas Escolares – Gerencia alunos, notas e calcula médias.
+Conversor de Unidades – Converte medidas de comprimento, peso, tempo, etc.
+Bot de Automação de Tarefas – Automatiza ações repetitivas como renomear arquivos.
+Mini Jogo de Adivinhação – O programa escolhe um número aleatório, e o jogador tenta adivinhar.
+Avançado 🔴
+Cifrador e Decifrador de Mensagens – Implementa cifra de César ou AES para criptografia.
+Bot do Telegram – Um bot que responde mensagens ou fornece informações.
+Monitorador de Preços – Um web scraper que verifica preços de produtos e envia alertas.
+Sistema de Login e Cadastro – Com autenticação de usuário e armazenamento seguro de senhas.
+Reconhecimento Facial – Usa OpenCV para detectar e reconhecer rostos.
+Gerador de QR Code – Cria QR codes personalizados para textos e links.
+Organizador de Arquivos – Move arquivos automaticamente com base na extensão.
+Sistema de Controle Financeiro – Gerencia despesas, receitas e gera relatórios.
+Assistente Virtual por Voz – Um assistente que responde a comandos de voz básicos.
+Jogo da Velha com IA – Implementa uma IA que joga contra o usuário.
